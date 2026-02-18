@@ -8,16 +8,22 @@ A dataset created from a higher education institution (acquired from several dis
 
 The dataset was created in a project that aims to contribute to the reduction of academic dropout and failure in higher education, by using machine learning techniques to identify students at risk at an early stage of their academic path, so that strategies to support them can be put into place. 
 
+
 **Dataset Characteristics:**
 Tabular
+
 **Subject Area:**
 Social Science
+
 **Associated Tasks:**
 Classification
+
 **Feature Type:**
 Real, Categorical, Integer
+
 **Instances:**
 4424
+
 **Features:**
 36
 
