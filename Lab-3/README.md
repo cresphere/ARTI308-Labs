@@ -4,21 +4,27 @@ Identifying ML Problems, Selecting Open Datasets, and Drawing a Methodology Diag
 ## Dataset Description
 A dataset created from a higher education institution (acquired from several disjoint databases) related to students enrolled in different undergraduate degrees, such as agronomy, design, education, nursing, journalism, management, social service, and technologies. The dataset includes information known at the time of student enrollment (academic path, demographics, and social-economic factors) and the students' academic performance at the end of the first and second semesters. The data is used to build classification models to predict students' dropout and academic sucess. The problem is formulated as a three category classification task, in which there is a strong imbalance towards one of the classes.
 
-*For what purpose was the dataset created?*
+**For what purpose was the dataset created?**
 
 The dataset was created in a project that aims to contribute to the reduction of academic dropout and failure in higher education, by using machine learning techniques to identify students at risk at an early stage of their academic path, so that strategies to support them can be put into place. 
 
-*Dataset Characteristics:*
+
+**Dataset Characteristics:**
 Tabular
-*Subject Area:*
+
+**Subject Area:**
 Social Science
-*Associated Tasks:*
+
+**Associated Tasks:**
 Classification
-*Feature Type:*
+
+**Feature Type:**
 Real, Categorical, Integer
-*Instances:*
+
+**Instances:**
 4424
-*Features:*
+
+**Features:**
 36
 
 
