@@ -1,2 +1,2 @@
-# Lab 8
+# Lab 7
 In this lab the required code for the second file has been filled in.
