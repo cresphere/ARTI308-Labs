@@ -23,7 +23,7 @@ Mean imputation
 Because one feature may have numbers between 0 and 9999 while another feature may have between 1 and 10, the feature with larger values will dominate and the model will be inaccurate if not scaled
 
 6. Which K value did you choose? Explain your answer using the elbow method and silhouette score.  
-K=3 because the elbow graph has a clear bend at 3, whilst the silhoutte score peaked at 3
+K=3 for the elbow graph because the decrease slowed down at that point, whereas the silhoutte score peaked at 3
 
 7. Based on the cluster summary table, describe each customer segment in your own words.  
 Cluster 1: Customer with high spending and activity
